@@ -1,1 +1,1 @@
-# ArduinoDuasEntradasUnreal
+# Projeto que consegue ler dois valores de dois sensores simutaneamente
